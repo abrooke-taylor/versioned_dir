@@ -1,5 +1,5 @@
 A “clean” working directory is one for which all changes have been committed, while a “dirty” working directory is one that contains changes that have not yet been committed (i.e. recorded/saved).
-Exercise
+I like cheese!
 
 Create a new file called something.md in versioned_dir. Type and add some text into this file, e.g. copy and paste in the text from this web page.
 
